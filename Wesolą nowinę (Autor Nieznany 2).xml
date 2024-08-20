@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:20">
+  <properties>
+    <titles>
+      <title>Wesolą nowinę</title>
+    </titles>
+    <authors>
+      <author>Autor Nieznany 2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Wesołą nowinę bracia słuchajcie<br/>niebieską Dziecinę ze mną witajcie<br/>Jak miła ta nowina!<br/>Mów gdzie jest ta Dziecina?<br/>Byśmy tam pobieżeli i ujrzeli</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bogu chwałę wznoszą na wysokości<br/>pokój ludziom głoszą duchy świtałości<br/>Jak miła ta nowina!<br/>Mów gdzie jest ta Dziecina?<br/>Byśmy tam pobieżeli i ujrzeli</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Panna nam powiła Boskie Dzieciątko<br/>Pokłonem uczciła to Niemowlątko<br/>Jak miła ta nowina!<br/>Mów gdzie jest ta Dziecina?<br/>Byśmy tam pobieżeli i ujrzeli</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Którego zrodziła Bogiem uznała <br/>i Panną jak była, Panną została<br/>Jak miła ta nowina!<br/>Mów gdzie jest ta Dziecina?<br/>Byśmy tam pobieżeli i ujrzeli</lines>
+    </verse>
+  </lyrics>
+</song>

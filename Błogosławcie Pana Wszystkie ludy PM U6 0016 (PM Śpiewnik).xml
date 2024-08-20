@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:03">
+  <properties>
+    <titles>
+      <title>Błogosławcie Pana Wszystkie ludy PM U6 0016</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Błogosławcie Pana wszystkie ludy ziemi,<br/>Chwalcie Go i wysławiajcie na wieki!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chcę błogosławić Pana w każdym czasie,<br/>na ustach moich zawsze Jego chwała.<br/>Dusza moja będzie się chlubiła w Panu,<br/>niech słyszą pokorni i niech się weselą!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szukałem Pana, a On mnie wysłuchał,<br/>i uwolnił od wszelkiej trwogi.<br/>Spójrzcie na Niego, promieniejecie radością,<br/>a oblicza wasze nie zaznają wstydu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Powściągnij swój język od złego,<br/>a Twoje wargi od słów podstępnych.<br/>Odstąp od złego, czyń dobro,<br/>szukaj pokoju, idź za Nim!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pan jest blisko skruszonych w sercu,<br/>i wybawia złamanych na duchu.<br/>Pan uwalnia dusze sług swoich,<br/>nie dozna kary kto się doń ucieka.</lines>
+    </verse>
+  </lyrics>
+</song>

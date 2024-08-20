@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:13">
+  <properties>
+    <titles>
+      <title>Nie ma takiego jak Jezus PM N6 0006</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ma takiego jak Jezus<br/>Nie ma takiego jak On<br/>Nie ma takiego jak Jezus<br/>Nie ma takiego jak On!<br/>Ref.:<br/>Szukam, szukam, ale  nie ma, nie ma<br/>Patrzę, patrzę, ale nie ma, nie ma<br/>Krążę, krążę - nie ma, nie ma<br/>Nie ma takiego jak On!</lines>
+    </verse>
+  </lyrics>
+</song>

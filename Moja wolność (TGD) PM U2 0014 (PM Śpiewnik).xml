@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:12">
+  <properties>
+    <titles>
+      <title>Moja wolność (TGD) PM U2 0014</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On otwiera drzwi,<br/>Nikt nie zamknie ich.<br/>On uwalnia więźniów.<br/>On kajdany zdjął,<br/>Także z moich rąk.<br/>Wybawiciel Jezus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nic nie ciąży już<br/>darowany dług<br/>Na Golgocie wykonało się<br/>Ta przebita dłoń<br/>dziś podnosi mnie<br/>W Nim prawdziwa wolność jest.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To mej wolności pieśń,<br/>Już nic nie trzyma mnie,<br/>Chcę tańczyć, chcę śpiewać,<br/>O Alleluja!<br/>To mej wdzięczności gest<br/>Ręce podnoszą się<br/>Wysoko do nieba<br/>o Alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

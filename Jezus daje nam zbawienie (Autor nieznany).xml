@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:08">
+  <properties>
+    <titles>
+      <title>Jezus daje nam zbawienie</title>
+    </titles>
+    <verseOrder>o1 o1 o2 o1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Jezus daje nam zbawienie,<br/>Jezus daje Pokój nam<br/>Jemu składam dziękczynienie,<br/>chwałę z serca mego dam</lines>
+      <lines>Jezus siłą mą, Jezus pieśnią mego życia<br/>Królem wiecznym On, niepojętym w mocy Swej<br/>W Nim znalazłem to, czego szukałem do dzisiaj<br/>Sam mi podał dłoń, bym zwyciężał w każdy dzień</lines>
+    </verse>
+    <verse name="o2">
+      <lines>W Jego ranach uzdrowienie,<br/>w Jego śmierci życia dar<br/>Jego krew to oczyszczenie,<br/>Jego życie chwałą nam.</lines>
+    </verse>
+  </lyrics>
+</song>

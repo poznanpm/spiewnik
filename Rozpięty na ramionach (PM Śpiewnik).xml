@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>Rozpięty na ramionach</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Rozpięty na ramionach Jak sokół na niebie. Chrystusie, Synu Boga, Spójrz proszę na ziemię.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Na ruchliwe ulice, Zabieganych ludzi. Gdy noc się już kończy, A ranek się budzi. Uśmiechnij się przyjaźnie Z wysokiego krzyża. Do ciężko pracujących, których głód poniża.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Pociesz zrozpaczonych, Zrozum głodujących. Modlących Ciebie słuchaj, wybacz umierającym. Spójrz cierpienia sokole na wszechświat, na ziemię. Na cichy ciemny Kościół, dziecko wzywające Ciebie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A gdy będziesz nas sądził, Boskie Miłosierdzie Prosimy, Twoje dzieci, Nie sądź na miarę Siebie</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:04">
+  <properties>
+    <titles>
+      <title>Canção ao Criador</title>
+      <title>Unana</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 v2 v3 c2 v3 c3 v5</verseOrder>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Sol se põe e eu não paro de cantar<br/>Uma canção de amor, para o Criador<br/>O Sol se põe e eu não paro de cantar<br/>Uma canção de amor, para o Criador</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ele merece todo meu louvor<br/>Toda gratidão de todo coração<br/>Ele merece todo meu louvor<br/>Toda gratidão de todo coração</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eu canto àquele, que primeiro me amou<br/>Que cuida de mim<br/>E que nunca me deixo<br/><br/>Eu canto àquele que primeiro me amou<br/>Que cuida de mim<br/>E que nunca me deixou<br/>E nunca, e nunca, e nunca me deixou</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Il sole tramonta e non riesco a smettere di cantare<br/>Una canzone d'amore, per il Creatore<br/>Il sole tramonta e non riesco a smettere di cantare<br/>Una canzone d'amore, per il Creatore</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Canto quello che per primo mi ha amato<br/>chi si prende cura di me<br/>E questo non mi ha mai lasciato<br/>Canto a colui che per primo mi ha amato<br/>chi si prende cura di me<br/>E questo non mi ha mai lasciato<br/>E mai, e mai, e non mi ha mai lasciato</lines>
+    </verse>
+    <verse name="c2">
+      <lines>merita tutte le mie lodi<br/>Tutta gratitudine con tutto il tuo cuore<br/>merita tutte le mie lodi<br/>Tutta gratitudine con tutto il tuo cuore</lines>
+    </verse>
+    <verse name="c3">
+      <lines>merita tutte le mie lodi<br/>Tutta gratitudine, tutto cuore<br/>merita tutte le mie lodi<br/>Tutta gratitudine, tutto cuore</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Canto quello che per primo mi ha amato<br/>chi si prende cura di me<br/>E questo non mi ha mai lasciato<br/><br/>Canto a colui che per primo mi ha amato<br/>chi si prende cura di me<br/>E questo non mi ha mai lasciato<br/>E mai, e mai, e non mi ha mai lasciato</lines>
+    </verse>
+  </lyrics>
+</song>

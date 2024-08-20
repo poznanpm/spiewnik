@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:06">
+  <properties>
+    <titles>
+      <title>Gdyby wiara twa PM N14 0012</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdyby wiara twa była wielka jak<br/>"gorczycy ziarno" - te słowa mówi ci Pan (x2)<br/>I z taką wiarą rzekłbyś do góry:<br/>Przesuń się! Przesuń się! (x2)<br/>A góra posłusznie przesunie się,<br/>przesunie się, przesunie się.<br/>W Imię Jezusa przesunie się,<br/>przesunie się, przesunie się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Spływa, spływa, spływa Duch Święty /x2<br/>Duch Święty swą mocą dotyka mnie,<br/>dotyka mnie, dotyka mnie.<br/>Od czubka głowy, po stopy me,<br/>po stopy me, po stopy me.<br/>Duch Święty swą mocą dotyka cię,<br/>dotyka cię, dotyka cię.<br/>Od czubka głowy po stopy twe,<br/>po stopy twe, po stopy twe.<br/>Spływa, spływa, spływa Duch Święty. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A chromy skoczy na nogi swe,<br/>na nogi swe, na nogi swe.<br/>A kto jest smutny uśmiechnie się,<br/>uśmiechnie się, uśmiechnie się.<br/>A kto łzy leje ten otrze je,<br/>ten otrze je, ten otrze je.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

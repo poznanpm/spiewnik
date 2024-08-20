@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:06">
+  <properties>
+    <titles>
+      <title>Dzięki Ci Maryjo</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">To Jej piękne oblicze<br/>Wkroczyło wnet w moje życie<br/>Matka Boga Żywego<br/>Podała mi Swoją dłoń<br/>Moje stęsknione serce<br/>Czuło w głębi jej ręce<br/>Jak zostawiły ziarno,<br/>które rośnie do dziś</lines>
+      <lines>Dzięki Ci Maryjo za miłość Twą<br/>Dzięki Matko Moja za światłość Twą<br/>Dzięki Matko Moja</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Piękna świata Królowo<br/>Dziewico Najpokorniejsza<br/>Przybytku Ducha Świętego<br/>Wskaż mi drogę do nieba<br/>Tyś jest dobrocią samą<br/>Panno nad pannami<br/>W Swej miłości matczynej<br/>Proszę módl się za nami</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Ożywiłaś wiarę mą<br/>Prowadzisz mnie do Swego Syna<br/>Ożywiłaś wiarę mą<br/>Ave Ave Ave Maria</lines>
+    </verse>
+  </lyrics>
+</song>

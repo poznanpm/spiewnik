@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:14">
+  <properties>
+    <titles>
+      <title>Otwórz me oczy, o Panie</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Otwórz me oczy, o Panie,<br/>Otwórz me oczy i serce<br/>Chcę widzieć Ciebie,<br/>chcę widzieć Ciebie (x2)</lines>
+      <lines>Wywyższonego widzieć chcę,<br/>Ujrzeć Ciebie<br/>w blasku Twej chwały.<br/>Wylej Swą siłę i moc<br/>gdy śpiewam:<br/>Święty, Święty, Święty /x3<br/>chcę widzieć Ciebie.</lines>
+    </verse>
+  </lyrics>
+</song>

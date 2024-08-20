@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:05">
+  <properties>
+    <titles>
+      <title>Dałeś mi wolność, bym wolnym był</title>
+      <title>Dałeś mi wolność, bym wolnym był</title>
+    </titles>
+    <authors>
+      <author type="words">Autor nieznany</author>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dałeś mi wolność, bym wolnym był x 2 <br/>Jestem wolny, jestem wolny x 4<br/>Będę chodził w wolności, Chodził wolności Twej<br/>Będę tańczył w wolności, Tańczył w wolności Twej</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdzie Duch Pana jest obecny Tam jest wolność<br/>Pokój Twój, radość Twa, miłość Twa</lines>
+    </verse>
+  </lyrics>
+</song>

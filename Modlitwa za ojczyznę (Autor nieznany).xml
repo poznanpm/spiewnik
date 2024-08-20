@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:11">
+  <properties>
+    <titles>
+      <title>Modlitwa za ojczyznę</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Boże, Rządco i Panie narodów,<br/>z ręki i karności Twojej racz nas nie wypuszczać,<br/>a za przyczyną Najświętszej Panny, Królowej naszej,<br/>błogosław Ojczyźnie naszej, by Tobie zawsze wierna,<br/>chwałę przynosiła Imieniowi Twemu<br/>a syny swe wiodła ku szczęśliwości.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Wszechmogący wieczny Boże,<br/>spuść nam szeroką i głęboką miłość ku braciom<br/>i najmilszej Matce, Ojczyźnie naszej,<br/>byśmy jej i ludowi Twemu,<br/>swoich pożytków zapomniawszy,<br/>mogli służyć uczciwie.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Ześlij Ducha Świętego na sługi Twoje,<br/>rządy kraju naszego sprawujące,<br/>by wedle woli Twojej ludem sobie powierzonym<br/>mądrze i sprawiedliwie zdołali kierować.<br/>Przez Chrystusa, Pana naszego. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

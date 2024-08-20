@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-04-17T19:25:51">
+  <properties>
+    <titles>
+      <title>Ma dusza</title>
+    </titles>
+    <authors>
+      <author type="words">Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ma dusza śpiewa Ci, śpiewa, o miłości mej. <br/>O miłości mej x3</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko czego pragnę, to znać serce Twoje,<br/>pragnę wytrwać aż powrócisz.</lines>
+    </verse>
+  </lyrics>
+</song>

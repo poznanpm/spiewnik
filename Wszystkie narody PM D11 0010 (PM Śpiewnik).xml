@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:20">
+  <properties>
+    <titles>
+      <title>Wszystkie narody PM D11 0010</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystkie narody klaskajcie w dłonie<br/>Wykrzykujcie Bogu radosnym głosem<br/>Bo Pan najwyższym jest królem<br/>nad całą ziemią<br/>Ref.:<br/>Śpiewajcie! wszystkie narody,<br/>Śpiewajcie! radosnym głosem,<br/>Śpiewajcie! Królowi!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:13">
+  <properties>
+    <titles>
+      <title>O wychwalajcie Go wszystkie narody</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>O wychwalajcie Go wszystkie narody<br/>I wysławiajcie Go wszystkie ludy<br/>Jego łaskawość nad nami potężna<br/>A Jego wierność trwa na wieki.<br/>O Alleluja, Alleluja! /x4</lines>
+    </verse>
+  </lyrics>
+</song>

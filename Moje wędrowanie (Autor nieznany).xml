@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:12">
+  <properties>
+    <titles>
+      <title>Moje wędrowanie</title>
+    </titles>
+    <verseOrder>o1 o1 o2 o2 o1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Moje wędrowanie, Panie mój<br/>Moje upadanie, Panie mój<br/>Moje powstawanie, Panie mój<br/>Twoje Miłowanie.</lines>
+      <lines>Jesteś dla nas spragnionych, jak rosa poranna<br/>Tobie śpiewamy, radosne Hosanna<br/>Jesteś dla nas wędrowców, jak zdrój czystej wody<br/>Duszy wytchnienie, Niebiańskie ogrody.</lines>
+    </verse>
+    <verse name="o2">
+      <lines break="optional">Nasze wędrowanie, Panie nasz<br/>Nasze upadanie, Panie nasz<br/>Nasze powstawanie, Panie nasz<br/>Twoje Miłowanie.</lines>
+      <lines>Jesteś dla nas żeglarzy, jak gwiazda zaranna<br/>Tobie śpiewamy, radosne Hosanna<br/>Jestaś dla nas pielgrzymów, jak burzy ustanie<br/>Jesteś drogą co nam, przez Ojca jest dana.</lines>
+    </verse>
+  </lyrics>
+</song>

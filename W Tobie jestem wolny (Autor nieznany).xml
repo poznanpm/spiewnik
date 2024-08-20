@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:19">
+  <properties>
+    <titles>
+      <title>W Tobie jestem wolny</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Dziś na skale postawiona,<br/>jak młody orzeł wzbijam się.<br/>Twoją łaską przytulona,<br/>mówię twierdzo moja,<br/>skało moja,<br/>Ucieczką moją jesteś<br/>Święty Jahwe!<br/>Kochany Tato ! Tatusiu !</lines>
+    </verse>
+    <verse name="o1">
+      <lines break="optional">Zabrałeś cały strach,<br/>otarłeś moje łzy.<br/>W Tobie jestem wolny,<br/>w Tobie jestem wolny. (x2)</lines>
+      <lines>Bo Ty skradłeś moje serce,<br/>nie potrzebuje już niczego więcej...<br/>Tylko Ciebie Jezu (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

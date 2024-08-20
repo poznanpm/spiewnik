@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:05">
+  <properties>
+    <titles>
+      <title>Czcijmy Jezusa</title>
+    </titles>
+    <authors>
+      <author>PM</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czcijmy Jezusa, czcijmy Go. <br/>Oddajmy Mu chwałę.<br/>Czcijmy Jezusa, czcijmy Go.<br/>/x4</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Powstał z martwych, powstał z martwych <br/>i On żyje na wieki już.<br/>Powstał z martwych, powstał z martwych<br/>Więc razem się radujmy /x3<br/>Świętując zmartwychwstania ten dzień.</lines>
+    </verse>
+  </lyrics>
+</song>

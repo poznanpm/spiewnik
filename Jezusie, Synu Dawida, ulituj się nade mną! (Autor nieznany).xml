@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Jezusie, Synu Dawida, ulituj się nade mną!</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Jezusie, Synu Dawida, ulituj się nade mną! x/2</lines>
+      <lines>Rabbuni, zlituj się<br/>Rabbuni, przejrzeć chcę<br/>Ja słyszę, że przechodzisz<br/>Rabbuni, uzdrów mnie, a pójdę Twą drogą!</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Patrz zrywam z siebie płaszcz,<br/>Odkrywam rany me<br/>Ty Panie wszystko wiesz<br/>Jezu, ulituj się, Rabbuni, abym przejrzał!</lines>
+    </verse>
+  </lyrics>
+</song>

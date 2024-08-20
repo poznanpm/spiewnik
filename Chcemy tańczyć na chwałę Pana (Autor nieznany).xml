@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:04">
+  <properties>
+    <titles>
+      <title>Chcemy tańczyć na chwałę Pana</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Chcemy tańczyć na chwałę Pana<br/>Chcemy tańczyć na Twoją cześć<br/>To jest taniec na chwałę Pana<br/>Bo On Bogiem Naszym jest!</lines>
+    </verse>
+  </lyrics>
+</song>

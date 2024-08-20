@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:03">
+  <properties>
+    <titles>
+      <title>#ec 7 wyjście Jak wielki</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>To On nasz Pan i Król, odziany w majestat swój<br/>ziemio raduj się, ziemio raduj się!<br/>Okrywa światłość Go, ucieka ciemność i zło<br/>i drży na Jego głos i drży na Jego głos.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jak wielki jest Bóg,<br/>śpiewaj ze mną<br/>wielki jest Bóg,<br/>niech wszyscy wiedzą<br/>wielki, wielki jest Bóg.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">Age to age He stands<br/>And time is in His hands<br/>Beginning and the end<br/>Beginning and the end</lines>
+      <lines>The Godhead Three in One<br/>Father, Spirit, Son<br/>The Lion and the Lamb<br/>The Lion and the Lamb</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>How great is our God<br/>Sing with me<br/>How great is our God<br/>And all will see<br/>How great, how great is our God</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>On czas w swej dłoni ma,<br/>od wieków na wieki trwa.<br/>Początkiem, końcem On /2x<br/>Jedyny w trójcy Bóg,<br/>Ojciec, Syn i Duch<br/>Barankiem jest i lwem /2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na wieki godzien jest<br/>przyjąć chwałę, moc i cześć.<br/>Ogłaszać Chcę<br/>Jak wielki jest Bóg!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">The splendor of a King<br/>Clothed in majesty<br/>Let all the earth rejoice<br/>All the earth rejoice</lines>
+      <lines>He wraps Himself in light<br/>And darkness tries to hide<br/>And trembles at His voice<br/>Trembles at His voice</lines>
+    </verse>
+  </lyrics>
+</song>

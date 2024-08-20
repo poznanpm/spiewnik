@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:20">
+  <properties>
+    <titles>
+      <title>wielbi dusza moja Pana PM U7 0017</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbi dusza moja Pana<br/>i raduje się mój duch.<br/>Cały świat dziś śpiewa pieśń,<br/>Najwyższemu Władcy ziem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uczynił wielkie rzeczy nam,<br/>Jemu chwała i cześć.<br/>Do Niego ręce pragnę wznieść,<br/>zaśpiewam pieśń.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zaśpiewam memu Bogu dziś, zaśpiewam dziś<br/>Zaśpiewam memu Bogu dziś, zaśpiewam dziś<br/>Zaśpiewam memu Bogu dziś, zaśpiewam dziś<br/>Memu Panu!</lines>
+    </verse>
+  </lyrics>
+</song>

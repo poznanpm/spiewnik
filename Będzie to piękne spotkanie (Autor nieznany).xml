@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:03">
+  <properties>
+    <titles>
+      <title>Będzie to piękne spotkanie</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Nie mamy wciąż miejsca swojego,<br/>wśród wszystkich zakątków tej Ziemi<br/>Szukamy wciąż miejsca swojego<br/>i wciąż do nowego dążymy,<br/>Ale przyjdzie taki dzień,<br/>gdy zapuka do Ciebie Ktoś<br/>wówczas powie Ci:<br/>"Odnalazłeś swój Dom,<br/>Dom spotkania miłości"</lines>
+      <lines>Będzie to piękne spotkanie,<br/>spotkanie, którego nie zna nikt,<br/>Będzie to przebywanie<br/>na zawsze i po wieczne dni,<br/>Jasność stanie przed Tobą,<br/>a ciemność na zawsze przeminie,<br/>Pan wyjdzie na to spotkanie<br/>w jedynej, jedynej dla Ciebie godzinie.</lines>
+    </verse>
+  </lyrics>
+</song>

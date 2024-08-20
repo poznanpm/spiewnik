@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:14">
+  <properties>
+    <titles>
+      <title>Otaczasz mnie dobrem</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty mnie tak dokładnie znasz, każdą moją myśl<br/>Łaskę swą każdego dnia okazujesz mi, i wołasz głębiej</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Całym sercem ufam Ci<br/>Ciebie kocham z całych sił<br/>Otaczasz mnie dobrem, otaczasz mnie dobrem<br/>Nigdy nie opuścisz mnie<br/>Nigdy nie rozmyślisz się<br/>Otaczasz mnie dobrem, otaczasz mnie dobrem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy na sercu ciężko mi, jesteś obok mnie<br/>Wszystkie drogi oświetlasz i masz najlepszy plan<br/>Jesteś zawsze wierny</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Będę Ci śpiewać ile mam tchu, o Panie mój<br/>Uwielbiam Cię, uwielbiam Cię!<br/>Będę Ci śpiewać ile mam tchu, na zawsze już<br/>Uwielbiam Cię, uwielbiam Cię!</lines>
+    </verse>
+  </lyrics>
+</song>

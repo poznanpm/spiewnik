@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:11">
+  <properties>
+    <titles>
+      <title>Modlitwa św. Faustyny za kapłanów</title>
+    </titles>
+    <authors>
+      <author>św.Faustyna</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Jezu mój, proszę Cię za Kościół cały, udziel mu miłości i światła Ducha Swego, daj moc słowom kapłańskim, aby serca zatwardziałe kruszyły się i wróciły do Ciebie, Panie. Panie daj nam świętych kapłanów, TY sam ich utrzymuj w świętości.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Boski i Najwyższy Kapłanie, niech moc Miłosierdzia Twego towarzyszy im wszędzie i chroni ich od zasadzek i sideł diabelskich,które ustawicznie zastawia na dusze kapłana. Niechaj moc miłosierdzia Twego, o Panie, kruszy i wniwecz obraca wszystko to, co by mogło przyćmić świętość kapłana,bo Ty wszystko możesz. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

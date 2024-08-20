@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Jezusa Narodzonego</title>
+    </titles>
+    <authors>
+      <author>nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jezusa narodzonego wszyscy witajmy <br/>Jemu po kolędzie dary wzajem oddajmy.<br/>Ref: Oddajmy wesoło, skłaniajmy swe czoło,<br/>Skłaniajmy swe czoło Panu naszemu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Oddajmy za złoto wiarę, czyniąc wyznanie, <br/>Że to Bóg i Człowiek prawy leży na sianie.<br/><br/>3. Oddajmy też za kadzidło Panu nadzieję,<br/>Że Go będziem widzieć w niebie, mówiąc to śmiele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>4. Oddajmy za mirrę miłość na dowód tego, <br/>Że Go nad wszystko kochamy z serca całego.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>5. Przyjmij, Jezu, na kolędę te nasze dary, <br/>Przyjmij serca, dusze nasze za swe ofiary.<br/>Ref: Byśmy kiedyś w niebie Posiąść mogli Ciebie,<br/>Posiąść mogli Ciebie na wieki wieków.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

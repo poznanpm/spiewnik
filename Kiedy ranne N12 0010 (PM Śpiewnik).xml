@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Kiedy ranne N12 0010</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy ranne wstają zorze,<br/>Tobie ziemia, Tobie morze.<br/>Tobie śpiewa żywioł wszelki:<br/>Bądź pochwalon, Boże wielki!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ooo Alleluja!<br/>Ooo Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A człowiek, który bez miary,<br/>Obsypany Twymi dary,<br/>Coś go stworzył i ocalił,<br/>A czemuż by Cię nie chwalił?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ledwie oczy przetrzeć zdołam,<br/>Wnet do mego Pana wołam,<br/>Do mego Boga w niebie,<br/>i szukam Go koło siebie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wielu snem śmierci upadli,<br/>Co się wczoraj spać pokładli<br/>My się jeszcze obudzili,<br/>Byśmy Cię, Boże, chwalili.</lines>
+    </verse>
+  </lyrics>
+</song>

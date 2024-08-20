@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:21">
+  <properties>
+    <titles>
+      <title>Zrzuć na mnie troski swe</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zrzuć na mnie troski swe,<br/>Ja o ciebie dbam,<br/>Ja o ciebie dbam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bo źródłem życia jestem Ja,<br/>i każdą troskę Twoją znam,<br/>więc trwaj cały czas przy mnie.<br/>Bo gdy kto wzywa imię Me,<br/>już nigdy nie zawiedzie się,<br/>więc trwaj cały czas przy mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

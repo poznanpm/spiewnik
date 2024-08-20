@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:18">
+  <properties>
+    <titles>
+      <title>Ty co nie zwątpiłaś</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty co nie zwątpiłaś nigdy, Ty co nie zwątpiłaś nigdy<br/>w Słowo Ojca Stworzyciela, pokonałaś ojca kłamstwa<br/>Nowa Ewo zawsze wierna<br/>Ty w ogrodzie się przechadzasz, słuchasz głosu Oblubieńca<br/>naucz nas wybierać życie, któraś życie dała Słowu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ave Maria, Ave Maria, <br/>Ave Maria, Maria</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty co nie zwątpiłaś nigdy, współcierpiąca z Odkupieniem,<br/>Trzy dni niosłaś cały Kościół aż spełniło się proroctwo.<br/>Bóg Zmartwychwstał Alleluja!<br/>Ty znasz najpiękniejsze pieśni<br/>Matko życia i Kościoła naucz nas nie wierzyć śmierci.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ten któremu zaufałaś tak zachwycił się Twym pięknem<br/>Zesłał sen na Święte Ciało<br/>Obudziłaś się już w Niebie<br/>Zdrowaś Maryjo łaski pełna Pan jest z Tobą jesteś pewna.<br/>Matko bądź błogosławiona w zwiastowaniu Twym i Fiat</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ave Maria, Ave Maria<br/>Ave Maria, Maria</lines>
+    </verse>
+  </lyrics>
+</song>

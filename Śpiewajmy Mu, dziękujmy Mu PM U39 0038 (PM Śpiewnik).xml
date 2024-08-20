@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>Śpiewajmy Mu, dziękujmy Mu PM U39 0038</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Śpiewajmy Mu, dziękujmy Mu,<br/>Jego miłość przetrwa wiecznie.<br/>On dobry jest, On jest Panem mym.<br/>Jego miłość przetrwa wiecznie<br/>Wznieś głos, wznieś głos /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śpiewajmy Mu, dziękujmy Mu<br/>Jego miłość przetrwa wiecznie<br/>Za życie, które daje nam<br/>Jego miłość przetrwa wiecznie<br/>Wznieś głos, wznieś głos /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Od rana aż po nocy kres<br/>Jego miłość przetrwa wiecznie<br/>Opieką swą otacza nas<br/>Jego miłość przetrwa wiecznie<br/>wznieś głos, wznieś głos /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na zawsze Bóg jest wierny,<br/>Na zawsze mocny jest,<br/>Na zawsze Bóg jest z nami,<br/>Na zawsze!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:05">
+  <properties>
+    <titles>
+      <title>Chrystus Pan karmi nas</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chrystus Pan karmi nas <br/>swoim świętym Ciałem.<br/>Chwalmy Go na wieki!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Duchem całym wielbię Pana,<br/>Boga, Zbawcę jedynego,<br/>bo w Nim samym odnajduję<br/>wszystką radość życia mego.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wielbię, bo chciał wejrzeć z nieba<br/>na swą sługę uniżoną,<br/>by mnie odtąd wszyscy ludzie<br/>mogli zwać błogosławioną.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sprawił we mnie wielkie dzieła,<br/>w swej dobroci niepojętej.<br/>On Wszechmocny, On Najwyższy,<br/>On sam jeden zawsze Święty.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On, który przez pokolenia<br/>pozostaje miłosierny<br/>wobec tego, kto Mu służy<br/>i chce zostać Jemu wierny.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>On, który swą moc objawia,<br/>gdy wyniosłość serc uniża,<br/>każdy zamiar może zburzyć,<br/>który pychą Mu ubliża.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>W mocy Jego odjąć władzę,<br/>a wydźwignąć pokornego,<br/>wszystkich głodnych zaspokoić,<br/>głodem wstrząsnąć bogatego.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>On się ujął za swym ludem,<br/>dziećmi wiary Abrahama,<br/>pomny na swe miłosierdzie,<br/>obietnicy swej nie złamał.</lines>
+    </verse>
+  </lyrics>
+</song>

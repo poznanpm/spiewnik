@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:06">
+  <properties>
+    <titles>
+      <title>Gdy się Chrystus rodzi</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gdy się Chrystus rodzi<br/>i na świat przychodzi.<br/>Ciemna noc w jasności<br/>prominiestej brodzi.<br/>Aniołowie się radują<br/>pod niebiosa wyśpiewują<br/>Gloria, gloria, gloria<br/>in excelsis Deo!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mówia do pasterzy, <br/>którzy trzód swych strzegli<br/>aby do Betlejem<br/>czym prędzej pobiegli<br/>Bo się narodził Zbawiciel<br/>wszego świata odkupiciel<br/>Gloria, gloria, gloria<br/>in excelsis Deo!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>O niebieskie duchy <br/>i posłowie nieba<br/>powiedzcież wyraźniej<br/>co nam czynić trzeba.<br/>Bo my nic nie pojmujemy<br/>Ledwo od strachu żyjemy.<br/>Gloria, gloria, gloria<br/>in excelsis Deo!</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Idźcież do Betlejem<br/>gdzie Dziecię zrodzone<br/>w pieluszki powite<br/>w żłobie położone<br/>oddajcie mu pokłon Boski<br/>On osłodzi wasze troski<br/>Gloria, gloria, gloria<br/>in excelsis Deo!</lines>
+    </verse>
+  </lyrics>
+</song>

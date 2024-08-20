@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:18">
+  <properties>
+    <titles>
+      <title>Tylko w Bogu</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Dusza moja odpoczywa<br/>tylko w Bogu mym.<br/>Od Niego przychodzi moja nadzieja.<br/>On jedynie opoką i schronieniem mym,<br/>twierdzą moją, więc się nie zachwieję.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Dusza moja odpoczywa<br/>tylko w Bogu mym.<br/>Od Niego przychodzi moje zbawienie.<br/>On jedynie opoką i schronieniem mym,<br/>twierdzą moją, więc się nie zachwieję.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>A my wciąż, Panie, wciąż<br/>pokładamy ufność w przemocy.<br/>Łudzimy się na próżno rabunkiem.<br/>Do bogactw, choćby rosły, mówiłeś<br/>serc nie przywiązujcie.</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Tylko w Bogu odpoczywa dusza moja.<br/>Od Niego przychodzi moje zbawienie.<br/>On jedynie opoką i schronieniem mym,<br/>twierdzą moją, więc się nie zachwieję.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Kocham Cię, mówi Pan</title>
+    </titles>
+    <authors>
+      <author type="words">Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v2">
+      <lines>Kocham Cię, mówi Pan.<br/><br/>Na zawsze już będę Cię kochał.<br/>Na wieki już będę Cię kochał.<br/>Wyryłem Cię na moich dłoniach.<br/>Dobrze Cię znam, bardzo Cię kocham.<br/><br/><br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bo góry mogą ustąpić /x2<br/>I pagórki się zachwiać /x2<br/>Ale miłość Moja, miłość Moja<br/>Nigdy nie odstąpi od Ciebie - mówi Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

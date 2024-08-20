@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:06">
+  <properties>
+    <titles>
+      <title>Fala Miłosierdzia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1</verseOrder>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ty jesteś w zranionych, samotnych, pragnących miłości.<br/>Bezdomny, skrzywdzony, najświętszy Pan błogosławiony.<br/>Nie pozwalasz mi przechodzić obojętnie<br/>Ogień, który zsyłasz pali moje serce.<br/>To co kiedyś dla mnie było niepojęte dzieje się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.: <br/>Niech porwie nas Fala Miłosierdzia<br/>Zaleją świat Twe błogosławieństwa.<br/><br/>Ooo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Twa miłość poucza, w niej pragnę rozwijać spojrzenie.<br/>Przynosić ją w dłoniach, to moje największe marzenie.<br/>Błogosławieństw droga w samym środku serca,<br/>gdzie przekleństwa wszystkie prawda Twa zwycięża,<br/>zaprowadza mnie zupełnie w nowe miejsca.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bridge:<br/>Z mojej prawej strony – błogosławiony<br/>Z mojej lewej strony – błogosławiona</lines>
+    </verse>
+  </lyrics>
+</song>

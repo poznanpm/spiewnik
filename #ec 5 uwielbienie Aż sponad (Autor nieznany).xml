@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:02">
+  <properties>
+    <titles>
+      <title>#ec 5 uwielbienie Aż sponad</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines break="optional">Aż sponad mórz i szczytów gór<br/>Twa Miłość spływa na mnie w dół,<br/>A ja otwieram serce me,<br/>niech Miłość Twa uwolni mnie,</lines>
+      <lines>Szczęśliwy jestem w prawdzie Twej,<br/>Do Ciebie wznoszę ręce me,<br/>Chcę zawsze śpiewać o Miłości Twojej Panie.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>O Miłości Twej zawsze śpiewać,<br/>Chcę o Miłości Twej zawsze śpiewać.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Over the mountains and the sea<br/>Your river runs with the love for me<br/>and I will open up my heart<br/>and let the healer set me free.</lines>
+      <lines>I'm happy to be in the truth<br/>and I will daily lift my hands<br/>for I will always sing of when Your love came down.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I could sing of your love forever</lines>
+    </verse>
+  </lyrics>
+</song>

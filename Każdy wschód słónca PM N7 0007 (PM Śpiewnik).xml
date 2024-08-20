@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Każdy wschód słónca PM N7 0007</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ref. Każdy wschód słońca       <br/>Ciebie zapowiada,<br/>nie pozwól nam<br/>przespać poranka./2x</lines>
+    </verse>
+    <verse name="v1">
+      <lines>My, którzy wszystko liczymy,   <br/>Ciebie mamy za darmo.<br/>Dajesz nam Siebie w całości<br/>i jesteś taki rozrzutny. /PANIE.../</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mało, że do nas przyszedłeś,<br/>co dzień dajesz nam Siebie.<br/>Zostałeś z nami w tym Chlebie,<br/>który bierzemy do ręki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dałeś nam Siebie za darmo,<br/>Twoja hojność zdumiewa.<br/>Naucz nas liczyć dni nasze,<br/>niech człowiek już nie umiera.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty jesteś pełnią życia,<br/>daj nam Twojego Chleba,<br/>daj nam oddychać wiecznością,<br/>Twój oddech ożywia i wspiera.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Przyjdź, Panie, przyjdź nareszcie,<br/>jak przyszedłeś już kiedyś.<br/>A co dzień nowy wschód słońca,<br/>niech Ciebie nam zapowiada.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:11">
+  <properties>
+    <titles>
+      <title>Modlitwa do Św Józefa</title>
+      <title>Modlitwa do Św Józefa</title>
+    </titles>
+    <authors>
+      <author>Modlitwa do Św. Józefa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Święty Józefie, posłuszny Sługo <br/>Józefie, Mężu sprawiedliwy<br/>i silny. Ojcze życzliwy i wierny<br/>Oblubieńcze pełen miłości.<br/>Wychowuj nas jak Chrystusa<br/>w sprawiedliwości i pokorze.<br/>Wstawiaj się za nami, abyśmy<br/>zostali przyobleczeni przez Ducha Świetego w sile Twojej czystości.<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Przyjmij nas w intymności <br/>Świętej Rodziny z Nazaretu,<br/>abyśmy nie żyli już dla siebie,<br/>ale niech Twój Syn Jezus żyje<br/>w nas i otwórz nam drzwi<br/>Trójcy Świętej w niebie.<br/><br/>Święty Józefie módl się za nami   x3<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

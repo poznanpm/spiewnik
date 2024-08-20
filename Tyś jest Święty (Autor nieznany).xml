@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:19">
+  <properties>
+    <titles>
+      <title>Tyś jest Święty</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Tyś jest Święty<br/>Tyś potężny<br/>Tyś jest godzien<br/>By dać Ci cześć<br/>Chcę Cię słuchać<br/>Iść za Tobą<br/>Chcę Cie kochać<br/>Po wszystkie dni</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Będę śpiewał, uwielbiał<br/>Boga, który jest Królem,<br/>Chcę Go kochać, wywyższać<br/>Pokłon oddać przed tronem</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Tyś jest Panów Pan, Tyś Królów Król,<br/>Tyś potężny Bóg, Twoje wszystko jest.<br/>Emmanuel, Twoje imię jest,<br/>Tyś pokoju Pan, Tyś barankiem jest.</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Żywym Bogiem Tyś,<br/>w Tobie łaska ma,<br/>Ty królujesz,<br/>aż po wieczny czas.<br/>Tyś alfa, omega,<br/>początek, koniec,<br/>Zbawiciel, przyjaciel,<br/>Tyś Mesjasz i Bóg</lines>
+    </verse>
+    <verse name="o5">
+      <lines>Tyś pokoju Pan i Tobie daję życie me</lines>
+    </verse>
+  </lyrics>
+</song>

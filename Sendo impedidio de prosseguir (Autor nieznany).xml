@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>Sendo impedidio de prosseguir</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Quando a noite fria cair sobre mim.<br/>E num deserto eu me encontrar.<br/>Me ver cercado por egipcios e porfarao.</lines>
+      <lines break="optional">KŁANDU A NOICZI FRIA KAIR SOBRI MIM<br/>I NUM DEZERTU EU MI EKUNTRAR<br/>MI VIR SERKADU PUR EŻIPCUS I PUR FARAO</lines>
+      <lines>SENDU IMPEDŻIDU DI PROSEDŻIR<br/>SEI QŁI O TEŁ FOGU KAIRA SOBRI MIM X 2<br/>I MI LEVARA IM TI KONFIAAAAR X 2</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Sendo impedidio de prosseguir.<br/>Sei que o teu fogo<br/>caira sobre mim x 2<br/>E me levara a<br/>Em Ti confiar x2</lines>
+    </verse>
+  </lyrics>
+</song>

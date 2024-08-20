@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:07">
+  <properties>
+    <titles>
+      <title>Jak wielki jest Bó PM U21 0025</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To On nasz Pan i Król, odziany w majestat swój<br/>ziemio raduj się, ziemio raduj się!<br/>Okrywa światłość Go, ucieka ciemność i zło<br/>i drży na Jego głos i drży na Jego głos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On czas w swej dłoni ma,<br/>od wieków na wieki trwa.<br/>Początkiem, końcem On /2x<br/>Jedyny w trójcy Bóg,<br/>Ojciec, Syn i Duch<br/>Barankiem jest i lwem /2x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na wieki godzien jest<br/>przyjąć chwałę, moc i cześć.<br/>Ogłaszać Chcę<br/>Jak wielki jest Bóg!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jak wielki jest Bóg,<br/>śpiewaj ze mną<br/>wielki jest Bóg,<br/>niech wszyscy wiedzą<br/>wielki, wielki jest Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

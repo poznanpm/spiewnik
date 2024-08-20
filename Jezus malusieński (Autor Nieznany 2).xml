@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:09">
+  <properties>
+    <titles>
+      <title>Jezus malusieński</title>
+    </titles>
+    <authors>
+      <author>Autor Nieznany 2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jezus malusieńki, leży wśród  stajenki<br/>Płacze z zimna, nie dała mu<br/>Matula skukienki<br/>Płacze z zimna, nie dała mu<br/>Matula skukienki</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bo uboga była, rąbek z głowy zdjęła<br/>W który Dziecię owinąwszy siankiem je okryła x2</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Nie ma kolebeczki, ani poduszeczki<br/>We żłobie mu położyła siana pod główeczki x2</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dziecina się kwili, Matuleńka lili<br/>W nóżki zimno, żłobek trwardy<br/>stajenka się chyli<br/>W nóżki zimno, żłobek twardy,<br/>stajenka sie chyli</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Matusia truchleje, serdeczne łzy leje<br/>O mój Synu wola Twoja, nie moja sie dzieje x2<br/></lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Przestań płakać proszę, bo żalu nie zniosę<br/>Dosyć mam go z męki Twojej, którą w sercu noszę x2</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Józefie stareński, dań z ogniem fajerki<br/>Grzać Dziecinę sam co prędzej podpieraj stajenki x2</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Pokłon oddajemy, Bogiem go wyznajemy<br/>To Dzieciątko ubożuchne, ludziom ogłaszajmy x2</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>Niech Go wszyscy znają, serdecznie kochają<br/>Za tak wielkie poniżenie, chwałę Mu oddają x2</lines>
+    </verse>
+  </lyrics>
+</song>

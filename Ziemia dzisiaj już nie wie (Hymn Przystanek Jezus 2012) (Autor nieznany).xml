@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:21">
+  <properties>
+    <titles>
+      <title>Ziemia dzisiaj już nie wie (Hymn Przystanek Jezus 2012)</title>
+    </titles>
+    <verseOrder>o1 o2 o1 o3 o1 o4 o5</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Ziemia dzisiaj już nie wie,<br/>jak bardzo jest spragniona Ciebie.<br/>Jak wiele rzek zmieniło bieg<br/>i gdzie ich źródło jest.</lines>
+      <lines>Boże zapal w nas Twój Płomień,<br/>ześlij Ducha, ześlij Ogień!<br/>Niech Miłości żar<br/>wypali w naszych sercach Twój ślad.<br/>Naznaczeni Krwią Przymierza,<br/>chcemy krzyczeć: JEST NADZIEJA!<br/>Niech usłyszy świat,<br/>Baranek zginął by ocalić nas.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Świat ma odpowiedź na wszystko,<br/>a milczy, gdy cierpienie jest blisko.<br/>Nie może znieść, że Biały Chleb<br/>pozwala łamać się.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Panie, chroń nas od złego,<br/>a w serca wlej miłość wzajemną.<br/>Niech płonie w nas, niech widzi świat,<br/>że brata kocha brat.</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Każdy, kto zaufa Tobie nie zawstydzi się.<br/>Twoje Imię jest potężne,<br/>na jego dźwięk każde kolano zgina się.<br/>Wszystko co żyje, oddaje cześć na jego dźwięk.</lines>
+    </verse>
+    <verse name="o5">
+      <lines>Tylko Jezus, Jezus,<br/>Jezus zbawił mnie.<br/>Tylko Jezus, Jezus,<br/>Jezus Panem jest.<br/>Tylko Jezus, Jezus,<br/>Jezus zbawił mnie.<br/>Tylko Jezus...</lines>
+    </verse>
+  </lyrics>
+</song>

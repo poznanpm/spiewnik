@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:05">
+  <properties>
+    <titles>
+      <title>Duch Pańsk nade mną PM E2 0090</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Duch Pańsk nade mną, namaścił i posłał mnie<br/>Bym głosił Ewangelię, niewidomym przejrzenie.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pan Bóg zawsze prowadzić Cię będzie,<br/>Nasyci duszę Twoją na pustkowiach.<br/>Odmłodzi twoje kości, będziesz jak zroszony ogród<br/>I jako źródło wody, co się nie wyczerpie.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oto Pan Bóg przycodzi z mocą<br/>i Jego ramię dzierży władzę.<br/>Oto z nim idzie Jego nagroda,<br/>a przed Nim Jego zapłata.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rozleję wody po spragnionej glebie<br/>I zdroje po wyschniętej ziemi.<br/>Przeleję ducha mego na twoich potomków<br/>I błogosławiełstwo moje na twe latorośle.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Słuchajcie narody Słowa Pańskiego,<br/>Głoście je na wyspach odległych i mówcie<br/>Ten, który rozproszył Izraela, znów go zgromadzi<br/>I będzie czuwał, jak pasterz nad swym stadem!</lines>
+    </verse>
+  </lyrics>
+</song>

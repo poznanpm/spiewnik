@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:21">
+  <properties>
+    <titles>
+      <title>Ześlij deszcz, ześlij deszcz</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Przelewają się przeze mnie<br/>rzeki, Twojej łaski.<br/>Łaska po łasce, fala za falą. /x3</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Ześlij deszcz, ześlij deszcz.<br/>Otwórzcie się bramy nieba.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Ześlij deszcz, ześlij deszcz.<br/>Już otworzyłeś nam niebo.</lines>
+    </verse>
+  </lyrics>
+</song>

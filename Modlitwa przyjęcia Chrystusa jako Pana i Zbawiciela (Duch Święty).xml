@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:11">
+  <properties>
+    <titles>
+      <title>Modlitwa przyjęcia Chrystusa jako Pana i Zbawiciela</title>
+    </titles>
+    <authors>
+      <author type="words">Duch Święty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie Jezu Chryste, dziękuję Ci za to, że mnie kochasz <br/>i że przyszedłeś od Ojca na świat, aby umrzeć za mnie i zbawić mnie.<br/>Dotychczas sam kierowałem swoim życiem i grzeszyłem wobec Ciebie. Wiem, że Ty możesz mnie uwolnić z wszelkich moich błędów i uleczyć moje słabości i choroby.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otwieram Ci zatem drzwi mojego serca <br/>i przyjmuję Cię w moje życie<br/>jako Pana i Zbawiciela.<br/>Zawładnij moim życiem i kieruj nim.<br/>Chcę żyć odtąd spełniając Twoją wolę.<br/>Spraw, abym zawsze był takim,<br/>jakim Ty chcesz mnie mieć.<br/><br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

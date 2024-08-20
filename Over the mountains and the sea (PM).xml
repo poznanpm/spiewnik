@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:15">
+  <properties>
+    <titles>
+      <title>Over the mountains and the sea</title>
+    </titles>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over the mountains and the sea<br/>Your river runs with the love for me<br/>and I will open up my heart<br/>and let the healer set me free.<br/>I'm happy to be in the truth<br/>and I will daily lift my hands<br/>for I will always sing of when Your love came down.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I could sing of your love forever</lines>
+    </verse>
+  </lyrics>
+</song>

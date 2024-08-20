@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:18">
+  <properties>
+    <titles>
+      <title>Święty, święty, święty jest Pan Bóg wrzechmogący</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Godzien chwały jest baranek<br/>Święty, święty jest Bóg<br/>Przed tronem łaski, jak kadzidło<br/>Niech się wzniesie nowa pieśń</lines>
+      <lines>Święty, święty, święty<br/>jest Pan Bóg wszechmogący<br/>On był i jest, przychodzi znów<br/>Wszystko Tobie śpiewa, Królowi Królów cześć<br/>Tyś wszystkim dla mnie jest<br/>Ciebie uwielbiam</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Odziany w tęcze, żywy Pan<br/>Mój skarb, jest blask, drogą mą<br/>Błogosławieństwo, chwałę<br/>on siłą, mądrość, cześć<br/>Niech przjmie Pan,<br/>najlepszy mój</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Staję w zachwycie,<br/>staję w podziwie<br/>Gdy wspominam Imię Twe<br/>Jezu Twe imię,<br/>mocą, powietrzem, żywą wodą<br/>Niepojęty Wielki Bóg</lines>
+    </verse>
+  </lyrics>
+</song>

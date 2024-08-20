@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:19">
+  <properties>
+    <titles>
+      <title>UUUnananana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uuu nananana x3</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1.Chcę śpiewać wciąż<br/>I nawet gdy nadejdzie noc<br/>Nie przestanę wielbić Cię<br/>Panie kocham Cię /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Mój Stworzycielu (uuu)<br/>Chcę dziękować Ci<br/>Z całej duszy swej<br/>I całym sercem swym /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Śpiewać chcę temu<br/>Który umiłował mnie<br/>Troszczy się o mnie<br/>I nigdy nie opuścił mnie /x2<br/>Nigdy, przenigdy!</lines>
+    </verse>
+  </lyrics>
+</song>

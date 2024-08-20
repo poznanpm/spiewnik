@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>Raduje się dusza ma wielbi Pana swego</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Raduje się dusza ma wielbi Pana swego<br/>Będę Ci śpiewał z całej siły<br/>Sławić Cię będę za Twe dzieła<br/>Będę Ci śpiewał z całej siły</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Błogosławić będę Twoje imię<br/>Jest miłosierny<br/>Pan zastępów<br/>Moc Jego ramienia<br/>nad swym ludem<br/>Pan, mój Zbawca!</lines>
+    </verse>
+  </lyrics>
+</song>

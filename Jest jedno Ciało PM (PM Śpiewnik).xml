@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:07">
+  <properties>
+    <titles>
+      <title>Jest jedno Ciało PM</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jest jedno Ciało, jest jeden Pan,<br/>jednoczy nas w Duchu byśmy razem szli.<br/>Usta głoszą chwałę Mu,<br/>w ręku Słowa Jego miecz.<br/>W moc odziani tak idziemy<br/>zdobywamy ziemię tę.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesteśmy ludem króla chwał,<br/>Jego świętym narodem,<br/>wybranym pokoleniem<br/>by objawiać Jego cześć.<br/>Jesteśmy ludem króla chwał,<br/>Jego świętym narodem,<br/>wielbimy Jezusa,<br/>On jest królem całej ziemi tej.</lines>
+    </verse>
+  </lyrics>
+</song>

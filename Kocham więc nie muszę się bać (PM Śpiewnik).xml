@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Kocham więc nie muszę się bać</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kocham, więc nie muszę się bać<br/>zabierz mój strach! /x3<br/>Kocham, więc nie muszę się bać<br/>zabierz mój strach! /x3<br/>Jezus mówi ci, że miłość ta<br/>zabiera strach, zabiera strach, zabiera strach! x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus, Jezus, Jezus, -ooo! -ooo! /x4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus daje ci miłość swą.<br/>Nie lękaj się! /x3<br/>Jezus daje ci miłość swą<br/>Nie lękaj się! Nie lękaj się! Nie lękaj się! /x2<br/>Jezus mówi ci, że miłość ta<br/>zabiera strach, zabiera strach, zabiera strach! x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jezus DROGĄ Jezus PRAWDĄ, Jezus ŻYCIEM,<br/>- ooo! - ooo! x4</lines>
+    </verse>
+  </lyrics>
+</song>

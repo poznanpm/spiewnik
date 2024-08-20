@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:09">
+  <properties>
+    <titles>
+      <title>Jezus Mówi do Ciebie</title>
+      <title>Jezus Mówi do Ciebie</title>
+    </titles>
+    <authors>
+      <author>Jezus Mówi 1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pielęgnuj w sobie życzliwość , <br/>miłość i miłosierdzie<br/>i wysyłaj je wobec innych .<br/>Najbardziej wobec tych ludzi<br/>,którzy są zagubieni<br/>, zniewoleni złem .</lines>
+    </verse>
+  </lyrics>
+</song>

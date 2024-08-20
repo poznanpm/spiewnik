@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:08">
+  <properties>
+    <titles>
+      <title>Jestemko chany z moim grzechem</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jestemko chany z moim grzechem<br/>Jestem kochany z mą słabością<br/>Za darmo ukochał mnie Pan<br/>Umarł za mnie i zmartwychwstał abym żył</lines>
+    </verse>
+  </lyrics>
+</song>

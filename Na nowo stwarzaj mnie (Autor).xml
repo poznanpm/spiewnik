@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:12">
+  <properties>
+    <titles>
+      <title>Na nowo stwarzaj mnie</title>
+    </titles>
+    <authors>
+      <author type="words">Autor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na nowo stwarzaj mnie,<br/>Niechaj z Ducha zrodzę się.</lines>
+    </verse>
+  </lyrics>
+</song>

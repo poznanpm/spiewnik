@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:20">
+  <properties>
+    <titles>
+      <title>Z kopyta kulig rwie</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v4">
+      <lines>Pędzi, pędzi kulig niczym błyskawica<br/>Hej, porwali te panny prosto od Kmicica</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zbójnik od Kmicica, zbójnik szarooki<br/>Hej, z wierzchu baranica, a pod spodem smoking</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:11">
+  <properties>
+    <titles>
+      <title>Miłość Twoja nad górami PM U38 0037</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłość Twoja nad górami<br/>ponad szczyty wznosi się<br/>jak to jest, że jesteś /3x<br/>z nami i w niebie nie brakuje Cię?<br/>Panie jeśli zechcesz<br/>przyjąć mnie takim<br/>jakim jestem<br/>i jestem gotowy już dziś</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli rozkażesz odrzucę wszystko,<br/>co nie z Ciebie<br/>by za Tobą w prawdzie /x3 iść<br/>Bo z Tobą Panie i przez Ciebie<br/>Wszystko, wszystko dzieje się,<br/>także życie moje<br/>Niech w Twoim trwa imieniu<br/>bo Ty mi pozwoliłeś /3x<br/>na nowo narodzić się<br/>Ty mi pozwoliłeś /3x żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

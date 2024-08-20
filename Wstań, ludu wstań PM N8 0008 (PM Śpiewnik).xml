@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:20">
+  <properties>
+    <titles>
+      <title>Wstań, ludu wstań PM N8 0008</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wstań, ludu wstań<br/>Serce swe podnieś tak wysoko<br/>głoś, że Pan już tutaj jest<br/>Krzycz ze wszystkich sił<br/>Że nasz Bóg<br/>Nawet z dna Szeolu chce, ma moc<br/>Wyprowadzić cię, tak dobry jest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.: Moich rąk, moich nóg, moich ust<br/>Ty używaj Panie,<br/>Aby mógł poznać cały świat,<br/>Tę nowinę, że Ty wybawiłeś nas<br/>Raduj się, ludu raduj się,<br/>Bo sam Ojciec Bóg o Ciebie ma staranie<br/>w górze lśnii najpiękniejsze z miast<br/>Tam mieszkanie jest dla każdego z nas</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wstań serce me,<br/>Boga chwal On jest godzien chwały<br/>Ten co tak ukochał nas.<br/>Krzycz ze wszystkich sił.<br/>Jego moc wielbij sercem całym,<br/>On tu jest, stoi pośród nas<br/>obiecał to.</lines>
+    </verse>
+  </lyrics>
+</song>

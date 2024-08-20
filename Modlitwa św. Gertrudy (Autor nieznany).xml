@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:11">
+  <properties>
+    <titles>
+      <title>Modlitwa św. Gertrudy</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Ojcze Przedwieczny, ofiaruję Ci Najdroższą Krew Boskiego Syna Twego,<br/>Pana naszego Jezusa Chrystusa w połączeniu ze wszystkimi Mszami Świętymi<br/>dzisiaj na całym świecie odprawianymi,<br/>za dusze w Czyśćcu cierpiące, za umierających,<br/>za grzeszników na świecie, za grzeszników w Kościele powszechnym,<br/>za grzeszników w mojej rodzinie, a także w moim domu.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>Skosztujcie i zobaczcie PM E11 0096</title>
+    </titles>
+    <verseOrder>c v1 c v2 c v3 c v4 c v5 c v6 c v7</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Skosztujcie i zobaczcie,<br/>jak dobry jest Pan!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Będę Panu w każdej porze<br/>śpiewał pieśń wdzięczności.<br/>Na mych ustach<br/>chwała Jego nieustannie gości.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Panu cała chluba moja,<br/>cieszcie się pokorni.<br/>Wspólnie ze mną wychwalajcie Pana,<br/>sławmy Imię Jego.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedym tęsknie szukał Pana,<br/>raczył mnie wysłuchać.<br/>I od wszelkiej trwogi mojej<br/>raczył mnie wyzwolić.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cieszcie się widokiem Jego,<br/>On was nie zawiedzie,<br/>Pan usłyszał głos biednego,<br/>wyrwał go z ucisków.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tych co Pana się lękają,<br/>Anioł Pański broni<br/>By ich wyrwać z ręki wroga,<br/>szańcem ich osłoni.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Więc skosztujcie i zobaczcie<br/>Jaki Pan jest dobry.<br/>Kto do Niego się ucieknie,<br/>ten błogosławiony.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Z czcią i lękiem służcie Panu,<br/>święty Ludu Boży.<br/>Bo nie zazna niedostatku<br/>kto się boi Pana.</lines>
+    </verse>
+  </lyrics>
+</song>

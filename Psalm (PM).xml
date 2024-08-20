@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:16">
+  <properties>
+    <titles>
+      <title>Psalm</title>
+      <title>Chłopcy i dziewczeta</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chłopcy i dziewczęta, sławcie imię Pana<br/>Chwalcie Pana z niebios, *<br/>chwalcie Go na wysokościach.<br/>Chwalcie Go, wszyscy Jego aniołowie, *<br/>chwalcie Go, wszystkie Jego zastępy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chłopcy i dziewczęta, sławcie imię Pana</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Królowie ziemscy i wszystkie narody, *<br/>władcy i wszyscy sędziowie na ziemi,<br/>Młodzieńcy i dziewczęta, †starcy i dzieci *<br/>niech imię Pana wychwalają.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majestat Jego ponad ziemią i niebem *<br/>i On pomnaża potęgę swego ludu.<br/>Oto pieśń pochwalna wszystkich Jego świętych, *<br/>synów Izraela, ludu, który jest Mu bliski.</lines>
+    </verse>
+  </lyrics>
+</song>

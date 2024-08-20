@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:07">
+  <properties>
+    <titles>
+      <title>Godzien o godzien jest Bóg PM U3 0015</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Godzien, o godzien jest Bóg,<br/>Siedzący na tronie,<br/>Baranek wśród chwał,<br/>Przyjąć wdzięczność, siłę i moc,<br/>Błogosławieństwo i cześć.<br/>Ref.:<br/>On Panem jest,<br/>Od wieków na wieki. /2x<br/>Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Będziemy niezmiennie wciąż trwać,<br/>W miłości i prawdzie,<br/>Oddając Mu hołd,<br/>miłość i wdzięczność, siłę i moc,<br/>Błogosławieństwo i cześć.<br/>Ref.:<br/>On Panem jest,<br/>Od wieków na wieki. /2x<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

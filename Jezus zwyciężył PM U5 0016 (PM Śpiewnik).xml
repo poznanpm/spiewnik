@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Jezus zwyciężył PM U5 0016</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus zwyciężył, to wykonało się,<br/>Szatan pokonany, Jezus złamał śmierci moc,<br/>Jezus jest Panem, o Alleluja!<br/>Po wieczne czasy Królem królów jest.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus jest Panem, Jezus jest Panem,<br/>Jezus jest Panem, Jezus jest Panem, tylko<br/>Jezus jest Panem, Jezus jest Panem,<br/>On jest Panem ziemi tej.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

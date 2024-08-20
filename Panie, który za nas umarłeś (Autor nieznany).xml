@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:15">
+  <properties>
+    <titles>
+      <title>Panie, który za nas umarłeś</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Panie, który za nas umarłeś - zmiłuj się!<br/>Panie, który życie oddałeś - zmiłuj się!<br/>Niech Twe przebaczenie dusze nasze odrodzi,<br/>niech Twe przebaczenie czystym dzieckiem uczyni nas.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Chryste, który byłeś posłuszny - zmiłuj się!<br/>Który uczniom nogi obmyłeś - zmiłuj się!<br/>Niech Twe przebaczenie moc pokory objawi,<br/>niech Twe przebaczenie ku braciom prowadzi nas.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Panie, Synu Boga Żywego - zmiłuj się!<br/>Panie, Dawco życia, nadziei - zmiłuj się!<br/>Niech Twe przebaczenie drogi nasze uprości,<br/>Niech Twe przebaczenie miłość wielką rozbudzi w nas.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:20">
+  <properties>
+    <titles>
+      <title>Wzywam Cię, Duchu, przyjdź</title>
+      <title>Wzywam Cię</title>
+    </titles>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wzywam Cię, Duchu, przyjdź,<br/>Czekam wciąż, byś dotknął nas.<br/>Wołam Cię, Panie, przyjdź,<br/>Jezu, Zbawco, do dzieci Twych.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.<br/>Jak spragniona ziemia rosy dusza ma.<br/>Tylko Ty możesz wypełnić serca głód, serca głód.<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Głębio mórz, potęgo gór. Boże mój,<br/>Nie mogę bez Twej miłości żyć,<br/>Nie chcę bez Ciebie żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

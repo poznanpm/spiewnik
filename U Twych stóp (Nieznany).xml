@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:19">
+  <properties>
+    <titles>
+      <title>U Twych stóp</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U Twych stóp, to tu miejsce święte jest<br/>Pragnę przyjść i skłonić się<br/>By móc z Tobą być to zachwyca mnie<br/>Więc pokornie chylę się.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W tej chwili tak po prostu chcę z Tobą być<br/>Wpatrzony w Twoją twarz<br/>Ty wiesz, że tak niewiele dziś zrobię sam<br/>A więc przyjdź i dotknij mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>U Twych stóp, to tu miejsce święte jest<br/>Pragnę przyjść i skłonić się<br/>By móc z Tobą być to zachwyca mnie<br/>Więc pokornie chylę się.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>To wszystko czego pragnę to z Tobą być<br/>Do Twej  świętości wejść<br/>Chcę aby Duch Twój teraz ogarnął mnie<br/>Będę zawsze wielbił Cię.</lines>
+    </verse>
+  </lyrics>
+</song>

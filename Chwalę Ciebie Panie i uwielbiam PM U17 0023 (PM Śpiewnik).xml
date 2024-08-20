@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:05">
+  <properties>
+    <titles>
+      <title>Chwalę Ciebie Panie i uwielbiam PM U17 0023</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Chwalę Ciebie Panie /x2<br/>i uwielbiam /x2<br/>Wznoszę w górę swoje ręce,<br/>Uwielbiając Imię Twe.</lines>
+      <lines>Bo wielkiś Ty<br/>Wielkie dzieła czynisz dziś<br/>Nie dorówna Tobie nikt<br/>Nie dorówna Tobie nikt</lines>
+    </verse>
+  </lyrics>
+</song>

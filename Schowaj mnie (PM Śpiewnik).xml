@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>Schowaj mnie</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Schowaj mnie<br/>pod skrzydła Swe,<br/>ukryj mnie<br/>w silnej dłoni Swej. (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Odpocznę dziś<br/>w ramionach Twych.<br/>Dusza ma<br/>w pokoju będzie trwać. (x2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiedy fale mórz chcą porwać mnie,<br/>Z Tobą wzniosę się, podniesiesz mnie,<br/>Panie, Królem Tyś spienionych wód,<br/>ja ufam Ci, Ty jesteś Bóg. (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

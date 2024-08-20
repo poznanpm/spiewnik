@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:14">
+  <properties>
+    <titles>
+      <title>Okaż mi Boże miłosierdzie swoje</title>
+    </titles>
+    <verseOrder>o1 o1 o1 o2 o1 o3 o1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Okaż mi, Boże,<br/>miłosierdzie swoje<br/>według litości Serca Jezusowego.<br/>Usłysz błagania i prośby moje,<br/>okaż mi miłosierdzie swoje.</lines>
+      <lines>Wszechmogący, miłosierny Boże,<br/>litość Twoja jest niewyczerpana.<br/>I choć nędza w mojej duszy jest ogromna tak,<br/>jak morze, okaż mi miłosierdzie, Boże.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Wiekuista Trójco, dobry Boże,<br/>litość Twoja jest niepoliczona,<br/>a więc ufam tak niezbicie w miłosierdzia Twego, Boże.<br/>Okaż mi miłosierdzie, Boże.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Wszechmoc miłosierdzia Twego, Panie,<br/>rozsławiana jest po świecie całym.<br/>Niechaj wieczna cześć i chwała<br/>Twoja nigdy nie ustanie.<br/>Okaż mi miłosierdzie, Panie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:14">
+  <properties>
+    <titles>
+      <title>Oto ja poślij mnie PM</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oto ja poślij mnie<br/>Dotknij ogniem moich warg<br/>Powiedz Panie czego chcesz<br/>A moją rozkoszą będzie być posłusznym<br/>Daj mi swego Ducha, abym mógł stać się chlebem<br/>Abym stał się winem, abym gasił twe pragnienie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj mi swego Ducha, abym mógł stać się chlebem<br/>Abym stał się winem, abym gasił twe pragnienie<br/>Nie chcę Ci już mówić o moich potrzebach<br/>Panie Ty wiesz wszystko, objaw mi swe pragnienie.</lines>
+    </verse>
+  </lyrics>
+</song>

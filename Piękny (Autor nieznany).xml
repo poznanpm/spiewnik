@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:15">
+  <properties>
+    <titles>
+      <title>Piękny</title>
+      <title>Piękny</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>PIĘKNY , PIĘKNY ,PIĘKNY JEST <br/>CHWAŁA , CHWAŁA , CHWAŁA MU<br/>JEZUS , JEZUS !<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Uwielbiam Ciebie przed Twym tronem <br/>Pokaż swoje piękno<br/>chcemy widzieć Twoją twarz</lines>
+    </verse>
+  </lyrics>
+</song>

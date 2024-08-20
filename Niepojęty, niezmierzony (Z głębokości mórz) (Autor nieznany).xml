@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:13">
+  <properties>
+    <titles>
+      <title>Niepojęty, niezmierzony (Z głębokości mórz)</title>
+    </titles>
+    <verseOrder>o1 o1 o2 o2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Z głębokości mórz aż po szczyty gór<br/>Stworzenie objawia Majestat Twój<br/>Od kolorów jesieni po wiosenny deszcz<br/>Wszystko śpiewa Ci pieśń pełną cudownych słów<br/>ogłaszając</lines>
+      <lines>Niepojęty, niezmierzony<br/>gwiazdy stworzyłeś na niebie<br/>i każdą z nich znasz<br/>Wspaniałym Bogiem Tyś jest<br/>Wszechmogący nieskończony<br/>W zachwycie klękamy przed Tobą<br/>by wyznać to że<br/>wspaniałym Bogiem Tyś jest</lines>
+    </verse>
+    <verse name="o2">
+      <lines break="optional">Kto uwalnia błyskawic moc w czasie burz<br/>Kto maluje kolory porannych zórz<br/>Słońce stworzył na niebie i dał mu Swą moc<br/>Orzeźwienie przynosi w gwieździstą noc<br/>Tylko Ty</lines>
+      <lines>Niepojęty, niezmierzony<br/>Gwiazdy stworzyłeś na niebie<br/>i każdą z nich znasz<br/>Wspaniałym Bogiem Tyś jest<br/>Zawsze dobry miłujący<br/>Ty znasz moje serce i mimo to<br/>wciąż kochasz mnie<br/>Wspaniałym Bogiem Tyś jest</lines>
+    </verse>
+  </lyrics>
+</song>

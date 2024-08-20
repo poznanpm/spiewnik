@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-07-18T20:16:51">
+  <properties>
+    <titles>
+      <title>Moja dusza wielbi Pana</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Moja dusza wielbi Pana,<br/>raduje się, wysławia Go,<br/>ponieważ spojrzał<br/>na uniżenie Służebnicy</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Odtąd błogosławić będą mnie,<br/>kochanym dzieckiem Bóg stworzył mnie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O wszechmogący sprawił we mnie wspaniałości<br/>Jego imię: Święty, Święty, Święty<br/>Jego Miłosierdzie trwać będzie na wieki!</lines>
+    </verse>
+  </lyrics>
+</song>

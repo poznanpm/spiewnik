@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:12">
+  <properties>
+    <titles>
+      <title>Mówię tak życiu</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś moją siłą, o Panie, moją skałą<br/>Tyś mą nadzieją Twe ramiona chronią mnie<br/>Oto ja niech mi się stanie według Twojej woli<br/>Oto ja niech mi się stanie według Twojej woli</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mówię TAK życiu<br/>mówię TAK wszystkiemu co mi dajesz.<br/>Mówię TAK życiu<br/>każdego dnia chwila po chwili<br/>Mówię TAK życiu, o Panie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nikt nie zabiera mi życia, to ja je ofiaruję<br/>Aby Twój plan we mnie spełnił się<br/>Aby Twój plan we mnie spełnił się</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Nikt nie zabiera mi życia, to ja je ofiaruję<br/>Aby Twój plan we mnie spełnił się<br/>Aby Twój plan we mnie spełnił się</lines>
+    </verse>
+  </lyrics>
+</song>

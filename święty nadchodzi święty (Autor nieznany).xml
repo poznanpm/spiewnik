@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>święty nadchodzi święty</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty nadchodzi Święty<br/>Prostujcie ścieżki, pagórki równajcie<br/>Święty nadchodzi Święty,<br/>pokutę czyńcie na twarze padajcie.</lines>
+    </verse>
+  </lyrics>
+</song>

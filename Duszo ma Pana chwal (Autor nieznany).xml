@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:06">
+  <properties>
+    <titles>
+      <title>Duszo ma Pana chwal</title>
+    </titles>
+    <verseOrder>o1 o1 o1 o2 o1 o3 o1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Duszo ma Pana chwal,<br/>oddaj Bogu cześć<br/>Świętemu śpiewaj pieśń.<br/>Z mocą wywyższaj Go,<br/>duszo ma,<br/>Uwielbiam Boże Cię.</lines>
+      <lines>Nowy dzień wraz ze wschodem słońca,<br/>znów nadszedł czas by Ci śpiewać pieśń.<br/>Cokolwiek jest już za mną i to wszystko co przede mną.<br/>Wiem będę śpiewać, gdy nadejdzie zmrok.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Bogaty w miłość gniew oddalasz, Panie.<br/>Twe serce miłe, wielkie Imię Twe.<br/>Ze względu na Twą dobroć będę śpiewać Tobie pieśni.<br/>Wiele powodów, by uwielbiać Cię.</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Przyjdzie dzień, gdy bez sił zostanę,<br/>nadejdzie czas mego końca tu.<br/>Dusza ma będzie już na zawsze Cię uwielbiać.<br/>W wieczności z Tobą piękna zabrzmi pieśń.</lines>
+    </verse>
+  </lyrics>
+</song>

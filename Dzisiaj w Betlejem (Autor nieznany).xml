@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:06">
+  <properties>
+    <titles>
+      <title>Dzisiaj w Betlejem</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dzisiaj w Betlejem, dzisiaj w Betlejm<br/>Wesoła nowina.<br/>Że Panna Czysta, że Panna Czysta<br/>Porodziła Syna.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Chrustus się rodzi<br/>Nas oswobodzi,<br/>Anieli grają,<br/>Króle witają<br/>Pasterze śpiewają<br/>Budlęta klękają,<br/>Cuda, cuda ogłaszają.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Maryja Panna, Maryja Panna<br/>Dzieciątko piastuje.<br/>I Józef Święty i Józef Święty<br/>On Go pielęgnuje.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Chrustus się rodzi<br/>Nas oswobodzi,<br/>Anieli grają,<br/>Króle witają<br/>Pasterze śpiewają<br/>Budlęta klękają,<br/>Cuda, cuda ogłaszają.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Choć w stajeneczce, choć w stajenczce<br/>Panna Syna rodzi.<br/>Przecież On wkrótce, przecież On wkrótce<br/>Ludzi oswobodzi.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Chrustus się rodzi<br/>Nas oswobodzi,<br/>Anieli grają,<br/>Króle witają<br/>Pasterze śpiewają<br/>Budlęta klękają,<br/>Cuda, cuda ogłaszają.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Pójdźmy też i my, Pójdźmy też i my<br/>Przywitać Jezusa.<br/>Króla nad Królmi, Króla nad Królmi<br/>Uwielbić Chrystusa.</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Chrustus się rodzi<br/>Nas oswobodzi,<br/>Anieli grają,<br/>Króle witają<br/>Pasterze śpiewają<br/>Budlęta klękają,<br/>Cuda, cuda ogłaszają.</lines>
+    </verse>
+  </lyrics>
+</song>

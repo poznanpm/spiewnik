@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:15">
+  <properties>
+    <titles>
+      <title>Pieśń Jedności</title>
+    </titles>
+    <authors>
+      <author>Autor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Powiedziałeś Panie: "Dosyć lęku"!<br/>Powiedziałeś: "Kochaj, w tym jest sens".<br/>okazałeś dziwny świat miłości,<br/>W który teraz ponad wszystko wierzyć chcę.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Śpiewajmy Panu tę pieśń jedności,<br/>W której kochać chcemy wszystkich tak jak On.<br/>Chcemy żyć w prawdzie, wierze i miłości<br/>Chcemy stworzyć w Bożym świecie wspólny dom. /2x</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przemieniamy z Tobą ziemię w niebo,<br/>W białą szatę stroisz cały świat,<br/>Po ogrodach leżą kopy śniegu,<br/>To nie zima, anioł zgubił pióra swe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I nadziei dałeś całe morze, tej nadziei, która każe iść.<br/>Zbłękitniałe oczy Twej miłości<br/>Dają duszy wielką radość, kochać chcę.</lines>
+    </verse>
+  </lyrics>
+</song>

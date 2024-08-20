@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:10">
+  <properties>
+    <titles>
+      <title>Każdy spragniony PM D12 0043</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Każdy spragniony i słaby dziś<br/>Niech przyjdzie do źródła<br/>W wodzie życia zanurzy się<br/>Ból i cierpienie niech odpłyną w dal<br/>W morzu miłości serca uleczy dziś Pan</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.:<br/>Panie Jezu, przyjdź! / Duchu Święty, przyjdź! / Abba Ojcze, przyjdź! x4<br/></lines>
+    </verse>
+  </lyrics>
+</song>

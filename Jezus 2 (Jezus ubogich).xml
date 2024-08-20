@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:08">
+  <properties>
+    <titles>
+      <title>Jezus 2</title>
+      <title>Jezus 2</title>
+    </titles>
+    <authors>
+      <author type="words">Jezus ubogich</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus powołał ubogich i bezdomnych <br/>aby mogli nas Zbawić .</lines>
+    </verse>
+  </lyrics>
+</song>

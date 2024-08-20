@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:13">
+  <properties>
+    <titles>
+      <title>NIECH TWÓJ ŚWIETY DUCH</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Niech Twój Święty Duch<br/>dziś przeniknie mnie<br/>i niech zawsze już<br/>gości w duszy mej<br/>Ref.<br/>I niech spadnie deszcz błogosławieństw Twych.<br/>Ojcze obmyj mnie, Duchu Święty przyjdź.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Duchu Święty przyjdź,<br/>działaj z mocą w nas a<br/>Duchu Święty przyjdź,<br/>przemień smutku czas.</lines>
+    </verse>
+  </lyrics>
+</song>

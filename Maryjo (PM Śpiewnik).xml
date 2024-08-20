@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:11">
+  <properties>
+    <titles>
+      <title>Maryjo</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech ogarnie mnie Maryjo Twoje światło, <br/>Niech oswietli swoim blaskiem zycie me<br/><br/>Zamykam sie w Twoim sercu dziś by narodzić<br/>się na nowo. W Twej milosci o Maryjo pragnę żyć.</lines>
+    </verse>
+  </lyrics>
+</song>

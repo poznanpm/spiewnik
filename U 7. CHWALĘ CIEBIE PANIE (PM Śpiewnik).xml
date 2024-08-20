@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:19">
+  <properties>
+    <titles>
+      <title>U 7. CHWALĘ CIEBIE PANIE</title>
+    </titles>
+    <verseOrder>v1 c v2 c v3 c</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Chwalę Ciebie, Panie<br/>I uwielbiam<br/>Wznoszę w górę swoje ręce<br/>Uwielbiając imię Twe /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.:<br/>Bo wielkiś Ty<br/>Wielkie dzieła czynisz dziś<br/>Nie dorówna Tobie nikt<br/>Nie dorówna Tobie nikt</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Jesteś mą nadzieją<br/>Wiarą, życiem<br/>Daj mi poznać Twoje drogi<br/>Bym nie zbłądził nigdy już.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Jesteś świata Panem<br/>I Opoką<br/>Tobie składam troski swoje<br/>Tobie daję życie me.</lines>
+    </verse>
+  </lyrics>
+</song>

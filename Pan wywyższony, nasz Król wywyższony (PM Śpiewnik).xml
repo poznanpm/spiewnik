@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:15">
+  <properties>
+    <titles>
+      <title>Pan wywyższony, nasz Król wywyższony</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan wywyższony, nasz Król wywyższony<br/>Wśród chwał, uwielbiajmy Go.<br/>Pan wywyższony, nasz Król wywyższony,<br/>Oddajmy Jemu cześć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Królem jest Pan, Jego łaska na wieki trwa,<br/>Niebo i ziemia radują się Jego Imieniem.<br/>Pan wywyższony, nasz Król wywyższony<br/>Wśród chwał!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

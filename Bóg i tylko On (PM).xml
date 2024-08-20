@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:04">
+  <properties>
+    <titles>
+      <title>Bóg i tylko On</title>
+    </titles>
+    <authors>
+      <author>PM</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bóg i tylko on<br/>Bóg i tylko on<br/>Panem moim jest jedynym<br/>Panem jest na wieki x2</lines>
+    </verse>
+  </lyrics>
+</song>

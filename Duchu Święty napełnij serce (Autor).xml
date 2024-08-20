@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:05">
+  <properties>
+    <titles>
+      <title>Duchu Święty napełnij serce</title>
+    </titles>
+    <authors>
+      <author type="words">Autor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Święty, napełnij serce, <br/>miłością swą przemieniaj moje życie.<br/><br/>Duchu Święty, ogarnij łaską,<br/>bym wiedział jak pełnić wolę Twą.<br/>Jak ożywczy deszcz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jak ożywczy deszcz, Duchu Święty przyjdź.<br/>Dotknij naszych serc, rozpal ognia żar.<br/><br/>Dziś przenikaj nas, tchnieniem mocy swej,<br/>bądź nam światłem dnia i nadzieją serc.</lines>
+    </verse>
+  </lyrics>
+</song>

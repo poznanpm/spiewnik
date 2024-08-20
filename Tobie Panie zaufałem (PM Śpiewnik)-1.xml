@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:18">
+  <properties>
+    <titles>
+      <title>Tobie Panie zaufałem</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tobie Panie zaufałem<br/>Moje życie daje<br/>Pod Twoje władanie<br/>Tylko Ciebie będzie<br/>uwielbiać serce me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo cudowna jest miłość<br/>Twoja Jedyna<br/>takiej nie może dać nikt inny</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nieskończone Miłosierdzie<br/>dla nas masz,<br/>Nie zabraknie dla nikogo!</lines>
+    </verse>
+  </lyrics>
+</song>

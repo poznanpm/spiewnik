@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:15">
+  <properties>
+    <titles>
+      <title>Podnieś mnie Jezu</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Podnieś mnie Jezu i prowadź do Ojca /x2<br/>Zanurz mnie w wodzie<br/>Jego miłosierdzia<br/>Amen, Amen</lines>
+      <lines>Pan jest moim Pasterzem,<br/>niczego mi nie braknie<br/>Pozwala mi leżeć<br/>na zielonych pastwiskach</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Prowadzi mnie nad wody,<br/>gdzie odpocząć mogę<br/>Orzeźwia moją duszę<br/>(przez wzgląd na swoją chwałę)</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Wiedzie mnie<br/>po ścieżkach właściwych<br/>Przez wzgląd na swoją chwałę<br/>Chociaż bym szedł<br/>przez ciemną dolinę<br/>Zła się nie ulęknę</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Kij Twój i laska pasterska,<br/>są moją pociechą<br/>Stół dla mnie zastawiasz,<br/>na oczach mych wrogów<br/>Namaszczasz mi głowę olejkiem<br/>A kielich mój pełny po brzegi</lines>
+    </verse>
+    <verse name="o5">
+      <lines>Dobroć i łaska<br/>pójdą w ślad za mną<br/>Przez wszystkie dni życia<br/>I zamieszkam w domu Pana<br/>(po najdłuższe czasy) /x2</lines>
+    </verse>
+  </lyrics>
+</song>

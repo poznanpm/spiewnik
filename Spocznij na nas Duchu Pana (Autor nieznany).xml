@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:17">
+  <properties>
+    <titles>
+      <title>Spocznij na nas Duchu Pana</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Spocznij na nas<br/>Duchu Pana<br/>Duchu mądrości<br/>i rozumu<br/>Duchu poznania<br/>i bojaźni Bożej<br/>Duchu miłości i mocy (x2)</lines>
+    </verse>
+  </lyrics>
+</song>

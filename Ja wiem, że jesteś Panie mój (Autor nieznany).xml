@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:07">
+  <properties>
+    <titles>
+      <title>Ja wiem, że jesteś Panie mój</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Ja wiem, że jesteś Panie mój,<br/>Ja wiem, że jesteś tu. /x2<br/>Ja wiem, że w Tobie moja moc,<br/>Ja wiem, że Ty masz moc. /x2<br/>O namaść Panie wszystkich nas<br/>Cudowną łaską Twą. /x2</lines>
+    </verse>
+    <verse name="o2">
+      <lines>To nasz Pan gromadzi nas tu,<br/>Byśmy wielbili Go i służyli Mu.<br/>Godzien jest chwały, oddajmy Mu cześć.<br/>Nasz Bóg, nasz Bóg, Bóg,<br/>Oddajmy Mu cześć,<br/>On zawsze z nami jest.</lines>
+    </verse>
+  </lyrics>
+</song>

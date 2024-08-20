@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:14">
+  <properties>
+    <titles>
+      <title>Oto są Baranki Moje PM E3 0091</title>
+    </titles>
+    <verseOrder>c v1 c v2 c v3 c v4 c v5</verseOrder>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik PM"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>O to są baranki młode <br/>Oto ci, co zawołali Alleluja<br/>Dopiero przyszli do zdrojów,<br/>światłością się napełnili<br/>Alleluja ! Alleluja !</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Na Baranka Pańskich Godach<br/>W szat świątecznych czystej bieli<br/>Po krwawego morza wodach<br/>Nieśmy Panu pieśń weseli .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W swej miłości wiekuistej<br/>On nas swoją Krwią częstuję<br/>Nam też ciało swe przeczyste<br/>Chrystus kapłan ofiaruje.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na drzwi świętą ¡ Krwią skropione<br/>Anioł mściciel z lękiem wziera,<br/>Pędzi morze rozdzielone,<br/>Wrogów w nurtach swych pożera.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Już nam Paschą Tyś jest Chryste,<br/>Wielkanocną też ofiarą,<br/>Tyś Przaśniki nasze czyste<br/>Dla dusz prostych z szczerą wiarą.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O Ofiaro niebios święta,<br/>Ty moc piekła pokonywasz,<br/>Zrywasz ciężkie śmierci pęta,<br/>Wieniec życia nam zdobywasz.</lines>
+    </verse>
+  </lyrics>
+</song>

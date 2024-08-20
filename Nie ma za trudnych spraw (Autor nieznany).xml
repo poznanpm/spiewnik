@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:13">
+  <properties>
+    <titles>
+      <title>Nie ma za trudnych spraw</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines break="optional">Nie ma za trudnych spraw,<br/>nie ma zbyt łatwych też,<br/>dla Ciebie Panie!<br/>Ty przecież wszystko wiesz.<br/>Każdą potrzebę znasz,<br/>słyszysz mój śmiech i płacz.<br/>Dla Ciebie Panie,<br/>to przecież ważne jest.</lines>
+      <lines>Ja wiem, że wszystko jest możliwe,<br/>że nie ma rzeczy bez znaczenia,<br/>dlatego modlę się do Ciebie,<br/>dobry Panie!<br/>I wiem, że zanim powiem słowo,<br/>Ty, Boże, znasz już całe zdanie.<br/>Uwielbiam Cię!<br/>Twoja wola niech się stanie.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Nie zaskoczę Cię,<br/>wiesz o mnie wszystko,<br/>wiesz, co było,<br/>znasz moją przyszłość.<br/>Niepojęte, że Ty, Panie,<br/>kochasz mnie, kochasz mnie!</lines>
+    </verse>
+  </lyrics>
+</song>

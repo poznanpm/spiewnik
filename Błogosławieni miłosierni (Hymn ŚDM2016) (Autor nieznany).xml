@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:03">
+  <properties>
+    <titles>
+      <title>Błogosławieni miłosierni (Hymn ŚDM2016)</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1">
+      <lines>Więc odrzuć lęk i wiernym bądź,<br/>Swe troski w Panu złóż<br/>I ufaj, bo zmartwychwstał i wciąż<br/>Żyje Pan, Twój Bóg!</lines>
+    </verse>
+    <verse name="o1">
+      <lines break="optional">Wznoszę swe oczy ku górom, skąd<br/>Przyjdzie mi pomoc;<br/>Pomoc od Pana, wszak Bogiem On<br/>Miłosiernym jest!</lines>
+      <lines>Błogosławieni miłosierni,<br/>albowiem oni miłosierdzia dostąpią! (x2)</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Kiedy zbłądzimy, sam szuka nas,<br/>By w swe ramiona wziąć,<br/>Rany uleczyć Krwią swoich ran,<br/>Nowe życie tchnąć!</lines>
+    </verse>
+    <verse name="o3">
+      <lines>Gdyby nam Pan nie odpuścił win,<br/>Któż ostać by się mógł?<br/>Lecz On przebacza, przeto i my<br/>Czyńmy jak nasz Bóg!</lines>
+    </verse>
+    <verse name="o4">
+      <lines>Pan Syna Krwią zmazał wszelki dług,<br/>Syn z grobu żywy wstał;<br/>„Panem jest Jezus" - mówi w nas Duch.<br/>Niech to widzi świat!</lines>
+    </verse>
+  </lyrics>
+</song>

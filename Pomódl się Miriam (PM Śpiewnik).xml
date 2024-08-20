@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:15">
+  <properties>
+    <titles>
+      <title>Pomódl się Miriam</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Pomódl się Miriam, aby Twój Syn żył we mnie<br/>Pomódl się, by Jezus we mnie żył<br/>Gdzie Ty jesteś, zstępuje Duch Święty,<br/>gdzie Ty jesteś, niebo staje się</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Miriam Tyś jest bramą do nieba<br/>moim niebem jest Twój Syn<br/>weź mnie, weź mnie do swego łona<br/>bym bóstwem Jezusa<br/>zajaśniał jak Ty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdybym umarł Jezus żyłby we mnie,<br/>gdybym umarł odpocząłbym,<br/>przyspiesz, przyspiesz moją śmierć,<br/>pragnę umrzeć, aby żyć</lines>
+    </verse>
+  </lyrics>
+</song>
