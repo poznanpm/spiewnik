@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:08">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2024-11-16T09:57:31">
   <properties>
     <titles>
       <title>Jezus Cię kocha, pragnie, leczy</title>
@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jezus Cię kocha, pragnie, leczy<br/>Właśnie dziś tu i teraz<br/>Chcę Go uwielbiać<br/>bo jest ze mną właśnie dziś.</lines>
+      <lines>Jezus Cię kocha,  pragnie,  leczy,<br/>właśnie dziś, tu i teraz.<br/>Chcę Go uwielbiać,<br/>bo jest ze mną właśnie dziś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Tobie ma nadzieja, w Tobie życie me.<br/>We mnie możesz wszystko,  jeśli chcesz.<br/>Moje nawrócenie, tylko w Tobie jest.<br/>Oczyść moje serce,  weź mój grzech.</lines>
     </verse>
   </lyrics>
 </song>

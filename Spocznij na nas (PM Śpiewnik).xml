@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2024-11-16T09:50:46">
+  <properties>
+    <titles>
+      <title>Spocznij na nas</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak jak Duch się poruszał ponad wodami,<br/>Panie poruszaj się tu.<br/>Spocznij na nas,  spocznij na nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zstąp dziś,  Duchu Święty, <br/>kiedy Ty przychodzisz,  moje serce drży.<br/>Ty,  Panie,  wypełniasz to miejsce,<br/>wypełnij na nowo me serce.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ogień i wiatr niech pojawią się znów.<br/>Otwórz bramy nieba objaw się tu.<br/>Spocznij na nas,  spocznij na nas.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Duchu Święty,  spocznij na nas.<br/>Pragniemy Cię,  pragniemy Cię.</lines>
+    </verse>
+  </lyrics>
+</song>
