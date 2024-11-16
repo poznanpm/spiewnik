@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2024-11-16T09:47:10">
+  <properties>
+    <titles>
+      <title>Godzien</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Godzien jest nasz Pan, wziąć życia księgę,<br/>Ten, co za nas zmarł, zerwać pieczęcie.<br/>Do życia wezwać tych,  co Mu ufają,<br/>w przymierzu swojej krwi zanurzyć wszystkich nas.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bo któż jak nasz Pan,  co śmiercią swą ożywia nas,<br/>miłości On wart,  On miłość swą nam w krzyżu dał.<br/>Wszedł nań jak władca, by objąć tron,<br/>zaprawdę Bogiem jest On.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie cofnął się, lecz kielich wziął, by za nas pić<br/>Nasz ból i grzech z nas wszystkich zdjął i niósł na krzyż<br/>Złożone w grobie zostały w Nim<br/>Gdy żywy wstał z martwych Syn</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wcielony Bóg, nas wiernych wziął w ramiona swe<br/>Do Ojca niósł, co zbawił był, gdy zgładził grzech<br/>Jego jest Niebo, Jego jest świat<br/>On jeden Bóg, On nasz brat</lines>
+    </verse>
+  </lyrics>
+</song>

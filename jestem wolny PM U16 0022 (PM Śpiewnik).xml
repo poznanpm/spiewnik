@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-13T20:39:08">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2024-11-16T09:59:33">
   <properties>
     <titles>
       <title>jestem wolny PM U16 0022</title>
       <title>Dla Mnie</title>
     </titles>
+    <verseOrder>v1 c</verseOrder>
     <authors>
       <author>PM Śpiewnik</author>
     </authors>
@@ -14,7 +15,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jestem wolny, wybawiony.<br/>Jestem wolny, odkupiony.<br/>Zbawił mnie Pan! /x3<br/>Ref.<br/>Dla mnie wziąłeś krzyż,<br/>Dla mnie umarłeś<br/>Dla mnie przelałeś krew<br/>Dla mnie, dla mnie!</lines>
+      <lines>Jestem wolny, wybawiony.<br/>Jestem wolny, odkupiony. <br/>Zbawił mnie Pan!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dla mnie wziąłeś krzyż, <br/>dla mnie umarłeś.<br/>Dla mnie przelałeś krew,<br/>dla mnie, to dla mnie!<br/></lines>
     </verse>
   </lyrics>
 </song>
