@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2025-01-16T10:35:06">
+  <properties>
+    <titles>
+      <title>Jesteś wszystkim,  o Panie mój</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.  Jesteś życiem,  jesteś siłą, <br/>mą nadzieją dziś jedyną. <br/>I pokarmem,  i napojem, <br/>pokonujesz życia znoje. </lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Ref.: Gdy widzę Ciebie,<br/>uśmiecham się szeroko. <br/>Podnoszę ręce,  kieruję je wysoko. <br/>Ty,  mój Jezu,  jesteś Bogiem, <br/>którego noszę w sobie. <br/>Jesteś wszystkim, o Panie mój. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.  Jesteś źródłem i natchnieniem,<br/>moim sensem i spełnieniem.<br/>Wypełnieniem obietnicy,<br/>ja na Ciebie mogę liczyć.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ref.: Gdy widzę Ciebie,<br/>uśmiecham się szeroko. <br/>Podnoszę ręce,  kieruję je wysoko. <br/>Ty,  mój Jezu,  jesteś Bogiem, <br/>którego noszę w sobie. <br/>Jesteś wszystkim, o Panie mój. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.  Jezu Chryste, dziś wyznaję,<br/>że Ty jesteś moim Panem!<br/>Całe życie Ci oddaję,<br/>chcę je przeżyć w Twojej chwale.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Ref.: Gdy widzę Ciebie,<br/>uśmiecham się szeroko. <br/>Podnoszę ręce,  kieruję je wysoko. <br/>Ty,  mój Jezu,  jesteś Bogiem, <br/>którego noszę w sobie. <br/>Jesteś wszystkim, o Panie mój. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.  Kiedy umrę,  zmartwychwstanę,<br/>i żyć nigdy nie przestanę.<br/>Miłosierdziu Twemu dzięki,<br/>będę słyszeć Nieba dźwięki!</lines>
+    </verse>
+  </lyrics>
+</song>
