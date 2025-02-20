@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2025-02-20T16:47:54">
+  <properties>
+    <titles>
+      <title>Umiłowany</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Kto zawsze pierwszy szuka nas: <br/>Tylko Ty, Jezu Ty<br/>Znajduje, gdzie się kończy świat: <br/>Tylko Ty<br/>Kto po nas w ciemność schyla się: <br/>Tylko Ty, Jezu, Ty.<br/>Podnosi do godności córek, synów:<br/>Tylko Ty!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref: Uwielbiamy Cię, <br/>uwielbiamy Cię, <br/>Nasz Jedyny, <br/>Umiłowany</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kto w swoich dłoniach trzyma nas:<br/>Tylko Ty, Jezu, Ty.<br/>Kto chroni nasze życie <br/>i jest nam wierny: <br/>Tylko Ty</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nawet jeśli ciemność <br/>wielka nas zakryje.<br/>Przecież dla Ciebie <br/>noc jest jasna tak jak dzień.<br/>Nigdy nas nie zgubisz ani na chwilę.<br/>Przecież dla Ciebie <br/>noc jest jasna tak jak dzień.<br/></lines>
+    </verse>
+  </lyrics>
+</song>
