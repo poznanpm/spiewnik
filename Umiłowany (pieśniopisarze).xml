@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2025-02-17T20:56:39">
+  <properties>
+    <titles>
+      <title>Umiłowany</title>
+    </titles>
+    <authors>
+      <author>pieśniopisarze</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uwielbiamy Cię<br/>Uwielbiamy Cię!<br/>Nasz Jedyny , Umiłowany!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kto zawsze pierwszy szuka nas: Tylko TY, Jezu TY<br/>Znajduje gdzie się kończy świat: Tylko TY<br/>Kto po nas w ciemność schyla się: Tylko TY, Jezu Ty<br/>Podnosi do godności córek, synów: Tylko TY</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto w Swoich dłoniach trzyma nas: Tylko TY, Jezu Ty<br/>Kto chroni nasze życie<br/>I jest nam wierny: Tylko TY</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nawet jeśli ciemność wielka nas zakryje,<br/>Przecież dla Ciebie, noc jest jasna tak jak dzień.<br/>Nigdy nas nie zgubisz, ani na chwilę,<br/>Przecież dla Ciebie noc jest jasna tak jak dzień.</lines>
+    </verse>
+  </lyrics>
+</song>
