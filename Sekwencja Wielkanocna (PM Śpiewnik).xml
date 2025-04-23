@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2025-04-23T17:49:40">
+  <properties>
+    <titles>
+      <title>Sekwencja Wielkanocna</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech w święto radosne Paschalnej Ofiary <br/>składają jej wierni uwielbień swych dary. <br/>Odkupił swe owce Baranek bez skazy, <br/>pojednał nas z Ojcem i zmył grzechów zmazy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śmierć zwarła się z życiem i w boju, o dziwy, <br/>choć poległ Wódz życia, króluje dziś żywy. <br/>Maryjo, Ty powiedz, coś w drodze widziała? <br/>Jam Zmartwychwstałego blask chwały ujrzała.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Żywego już Pana widziałam, grób pusty,<br/>i świadków anielskich i odzież, i chusty. <br/>Zmartwychwstał już Chrystus, Pan mój i nadzieja, <br/>a miejscem spotkania będzie Galileja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wiemy, żeś zmartwychwstał, że ten cud prawdziwy. <br/>O, Królu Zwycięzco, bądź nam miłościwy.</lines>
+    </verse>
+  </lyrics>
+</song>

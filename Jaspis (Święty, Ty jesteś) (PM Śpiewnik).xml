@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.2" modifiedIn="OpenLP 2.9.2" modifiedDate="2025-04-23T17:25:41">
+  <properties>
+    <titles>
+      <title>Jaspis (Święty, Ty jesteś)</title>
+    </titles>
+    <authors>
+      <author>PM Śpiewnik</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1.Otwórz me oczy bym mógł widzieć Twe piękno. <br/>Otwórz me oczy bym mógł widzieć Cię.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref: Święty, Święty, Święty, Ty jesteś, Ty jesteś (Ty jesteś, który jesteś)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>2.Jesteś piękny jak jaspis,<br/>jesteś piękny jak krwawnik.<br/>Tron Twój otacza tęcza jak szmaragd.</lines>
+    </verse>
+  </lyrics>
+</song>
