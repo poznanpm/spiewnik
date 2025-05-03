@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2025-02-17T20:47:07">
+  <properties>
+    <titles>
+      <title>Tylko w Tobie</title>
+    </titles>
+    <authors>
+      <author>PM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tylko w Tobie ja buduje mój Dom<br/>Tylko w Tobie pokładać będę swą nadzieję</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tylko w Tobie ma dusza odpoczywa<br/>Tylko w Tobie mogę oddychać.</lines>
+    </verse>
+  </lyrics>
+</song>

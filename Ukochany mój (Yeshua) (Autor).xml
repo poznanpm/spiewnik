@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2025-02-10T18:43:46">
+  <properties>
+    <titles>
+      <title>Ukochany mój (Yeshua)</title>
+    </titles>
+    <authors>
+      <author>Autor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ukochany mój, najpiękniejszy jest<br/>Nieskończony, w swej miłości </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yeshuuu aaaa aaaa</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Twoja jest chwała,<br/>Twoje Królestwo,<br/>Twoja jest moc!<br/>Na wieki AMEN!</lines>
+    </verse>
+  </lyrics>
+</song>
